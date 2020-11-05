@@ -1,0 +1,5 @@
+1.  Download the latest version of jdk from the link: https://www.oracle.com/ru/java/technologies/javase-downloads.html
+2.  Open console: Win+R
+3.  Сhange to the src/ directory
+4.  Run the command line "javac  Main.java" command line:
+5.  Run the command line "java Main" command line. 
