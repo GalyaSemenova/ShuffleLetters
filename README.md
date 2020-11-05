@@ -1,4 +1,4 @@
-# ShuffleLetters
+# shuffle-letters
 01-11-2020  
 About  
 Program that shuffles letters in a word and does not change the position of the first and last letters, while the word itself remains readable  
