@@ -1,5 +1,5 @@
 public class Sentence {
-    String sentence;
+    private String sentence;
 
     Sentence(String str) {
         sentence = str;
